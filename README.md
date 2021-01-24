@@ -3,7 +3,13 @@
 
 ## About
 
-Simple implementation in Python of blockchain validation concepts, here we have a list of transactions to be validated, create a block with them and generate a proof of work to add this block to our chain.
+Simple implementation in Python of blockchain validation concepts with interactive menu, here we have a list of transactions to be validated, create a block with them and generate a proof of work to add this block to our chain.
+
+## Demo
+
+<p align="center">
+  <img src="https://github.com/felipedmsantos95/blockchain-concept/blob/main/img/blockchain.gif"/>
+</p>
 
 
 ## Running the project
