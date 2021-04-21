@@ -21,7 +21,7 @@ Simple implementation in Python of blockchain validation concepts with interacti
 
 **See also:**
 
-- [Article on Medium that was the inspiration for this work](https://medium.com/coinmonks/python-tutorial-build-a-blockchain-713c706f6531) 
+- [Article on Medium that was the inspiration for this work](https://medium.com/coinmonks/python-tutorial-build-a-blockchain-713c706f6531)  
 
 
 
